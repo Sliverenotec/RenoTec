@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+table thead{
+    background-color: #00ff00;
+}
+table tbody{
+    background-color:#7015158c;
+    
+}
+table{
+    width: 600px;
+    height: 0px;
+    text-align: center;
+    font-size: large;
+}
+td{
+    border: 1px solid #4b13134b;
+    padding: 10px;
+    
+}
+tbody td:hover{
+    background-color: #351b1b;
+}
+h1{
+    font-size: 75px;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-size: 40px;
+    color:rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu{
+    width: 930px;
+    height: 0px;
+    text-align: center;
+
+}
+.texto{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: justify;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #ffffff;
+}
+a:hover {
+    text-decoration: 'underline';
+
+}
+.text-input{
+    width: 400px;
+    height: 50px;
+    font-size: 40px;
+}
+.renato{
+    width: 1000px;
+    height: 250px;
+    border-radius: 0px;
+    border: 0px solid rgb(92, 22, 22);
+    margin: 0px;
+}
+input[type=submit]{
+    background-color: rgb(92, 22, 22);
+    border: nome;
+    font-size: 40px;
+    color: #ffffff;
+}
